@@ -8,11 +8,11 @@
 
 ## 📚 Projects Overview
 
-### 1. [Libft - C Library](./0x01-libft/README.md) | C
+### 1. [Libft - C Library](./0x01-Libft/README.md) | C
 **Learn**: Memory management (`malloc`, `free`), string manipulation, linked lists, `atoi`/`itoa`, Makefile, modular programming  
 **Skills**: Pointers, memory allocation, library creation, debugging with valgrind
 
-### 2. [Printf - Variadic Functions](./0x02-printf/README.md) | C
+### 2. [Printf - Variadic Functions](./0x02-Printf/README.md) | C
 **Learn**: Variadic functions (`va_start`, `va_arg`, `va_end`), format specifiers (`%c %s %p %d %i %u %x %X`), dynamic string building  
 **Skills**: Type handling, buffer management, standard library replication
 
@@ -20,7 +20,7 @@
 **Learn**: Static variables, file descriptors, `read()` system call, buffer management, multiple FDs handling  
 **Skills**: File I/O operations, memory-efficient reading, string parsing, EOF handling
 
-### 4. [Born2BeRoot - System Administration]0x01-Libft(./0x04-Born2BeRoot/README.md) | Bash/Linux
+### 4. [Born2BeRoot - System Administration](./0x04-Born2BeRoot/README.md) | Bash/Linux
 **Learn**: Virtual machines, Linux installation (Debian/Rocky), LVM encryption, user/group management, SSH, UFW firewall, sudo, systemd, cron  
 **Skills**: Linux administration, security hardening, bash scripting, system monitoring
 
