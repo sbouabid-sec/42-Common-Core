@@ -8,51 +8,51 @@
 
 ## 📚 Projects Overview
 
-### 1. [Libft - C Library](./0x01-libft/README.md) | C | ⭐⭐☆☆☆
+### 1. [Libft - C Library](./0x01-libft/README.md) | C
 **Learn**: Memory management (`malloc`, `free`), string manipulation, linked lists, `atoi`/`itoa`, Makefile, modular programming  
 **Skills**: Pointers, memory allocation, library creation, debugging with valgrind
 
-### 2. [Printf - Variadic Functions](./0x02-printf/README.md) | C | ⭐⭐⭐☆☆
+### 2. [Printf - Variadic Functions](./0x02-printf/README.md) | C
 **Learn**: Variadic functions (`va_start`, `va_arg`, `va_end`), format specifiers (`%c %s %p %d %i %u %x %X`), dynamic string building  
 **Skills**: Type handling, buffer management, standard library replication
 
-### 3. [GetNextLine - File I/O](./0x03-GetNextLine/README.md) | C | ⭐⭐⭐☆☆
+### 3. [GetNextLine - File I/O](./0x03-GetNextLine/README.md) | C
 **Learn**: Static variables, file descriptors, `read()` system call, buffer management, multiple FDs handling  
 **Skills**: File I/O operations, memory-efficient reading, string parsing, EOF handling
 
-### 4. [Born2BeRoot - System Administration](./0x04-Born2BeRoot/README.md) | Bash/Linux | ⭐⭐⭐☆☆
+### 4. [Born2BeRoot - System Administration]0x01-Libft(./0x04-Born2BeRoot/README.md) | Bash/Linux
 **Learn**: Virtual machines, Linux installation (Debian/Rocky), LVM encryption, user/group management, SSH, UFW firewall, sudo, systemd, cron  
 **Skills**: Linux administration, security hardening, bash scripting, system monitoring
 
-### 5. [Minitalk - UNIX Signals](./0x05-MiniTalk/README.md) | C | ⭐⭐⭐☆☆
+### 5. [Minitalk - UNIX Signals](./0x05-MiniTalk/README.md) | C
 **Learn**: UNIX signals (`SIGUSR1`, `SIGUSR2`), signal handlers (`sigaction`), bit manipulation, IPC, PID management  
 **Skills**: Inter-process communication, binary operations, client-server patterns
 
-### 6. [PushSwap - Sorting Algorithms](./0x06-PushSwap/README.md) | C | ⭐⭐⭐⭐☆
+### 6. [PushSwap - Sorting Algorithms](./0x06-PushSwap/README.md) | C
 **Learn**: Algorithm design, stack operations (sa, sb, pa, pb, ra, rb, rra, rrb, etc.), complexity analysis, chunking strategy  
 **Skills**: Algorithm optimization, time complexity, problem-solving, performance benchmarking
 
-### 7. [SoLong - 2D Game](./0x07-SoLong/README.md) | C | ⭐⭐⭐☆☆
+### 7. [SoLong - 2D Game](./0x07-SoLong/README.md) | C
 **Learn**: MiniLibX (MLX42), game loop, map parsing (.ber files), sprite rendering (XPM/PNG), event handling, collision detection  
 **Skills**: Graphics programming, event-driven programming, game state management
 
-### 8. [Philosophers - Multithreading](./0x08-Philosophers/README.md) | C | ⭐⭐⭐⭐⭐
+### 8. [Philosophers - Multithreading](./0x08-Philosophers/README.md) | C
 **Learn**: Multithreading (`pthread_create`), mutexes (`pthread_mutex`), race conditions, deadlock prevention, dining philosophers problem  
 **Skills**: Concurrent programming, thread synchronization, deadlock avoidance, critical sections
 
-### 9. [Minishell - Shell Implementation](./0x09-MiniShell/README.md) | C | ⭐⭐⭐⭐⭐
+### 9. [Minishell - Shell Implementation](./0x09-MiniShell/README.md) | C
 **Learn**: Parsing (lexer, tokenization), command execution (`fork`, `execve`, `wait`), pipes, redirections (`< > >> <<`), environment variables, builtins (`echo cd pwd export unset env exit`), signal handling  
 **Skills**: Process management, file descriptors, shell internals, signal handling
 
-### 10. [Cub3D - Raycasting 3D Game](./0x10-Cub3D/README.md) | C | ⭐⭐⭐⭐☆
+### 10. [Cub3D - Raycasting 3D Game](./0x10-Cub3D/README.md) | C
 **Learn**: Raycasting (DDA algorithm), 3D rendering from 2D map, texture mapping, map parsing (.cub files), player movement, camera rotation, fish-eye correction, trigonometry  
 **Skills**: 3D graphics, mathematical calculations, game engine architecture, optimization
 
-### 11. [NetPractice - TCP/IP & Networking](./0x11-NetPractice/README.md) | Configuration | ⭐⭐⭐☆☆
+### 11. [NetPractice - TCP/IP & Networking](./0x11-NetPractice/README.md) | Configuration
 **Learn**: IPv4 addressing, subnet masks, CIDR notation (/24, /25, /26), subnetting, VLSM, routing tables, gateways, private IP ranges (RFC 1918)  
 **Skills**: IP addressing, subnetting calculations, routing configuration, network design
 
-### 12. [C++ Modules (00-09) - OOP](./0x12-CppModel/README.md) | C++98 | ⭐⭐⭐⭐☆ | *Jul 2 - Dec 18, 2024*
+### 12. [C++ Modules (00-09) - OOP](./0x12-CppModel/README.md) | C++98
 **Learn**:  
 - **CPP00-02**: Classes, namespaces, streams, memory (`new`/`delete`), references, operator overloading, Orthodox Canonical Form  
 - **CPP03-04**: Inheritance, virtual inheritance, polymorphism, virtual functions, abstract classes  
@@ -60,15 +60,15 @@
 - **CPP07-09**: Templates, STL containers (vector, list, map, set), iterators, algorithms  
 **Skills**: Object-oriented programming, memory management in C++, template programming, STL mastery
 
-### 13. [Inception - Docker & DevOps](./0x13-Inception/README.md) | Docker/Bash | ⭐⭐⭐⭐☆
+### 13. [Inception - Docker & DevOps](./0x13-Inception/README.md) | Docker/Bash
 **Learn**: Docker (Dockerfile, custom images), Docker Compose (multi-container orchestration), NGINX (reverse proxy, SSL/TLS), WordPress (WP-CLI), MariaDB, Docker networks, volumes, secrets management  
 **Skills**: Containerization, service orchestration, web server configuration, database administration
 
-### 14. [Irc - IRC Server](./0x14-IrcServer/README.md) | C++98 | ⭐⭐⭐⭐⭐ | *Sep 8 - Dec 10, 2024*
+### 14. [Irc - IRC Server](./0x14-IrcServer/README.md) | C++98
 **Learn**: Socket programming (TCP/IP, bind, listen, accept), I/O multiplexing (`poll()`), IRC protocol (RFC 1459), non-blocking I/O, command parsing, channel management, user authentication, operator commands (KICK, MODE, INVITE, TOPIC), bot development  
 **Skills**: Network programming, client-server architecture, protocol implementation, event-driven programming
 
-### 15. [Transcendence - Full-Stack Web App](./0x15-Transcendence/README.md) | TypeScript/JavaScript | ⭐⭐⭐⭐⭐
+### 15. [Transcendence - Full-Stack Web App](./0x15-Transcendence/README.md) | TypeScript/JavaScript
 **Learn**:  
 - **Frontend**: Next.js 14, TypeScript, React, Tailwind CSS, Socket.IO client, React hooks, form validation, i18next  
 - **Backend**: Node.js, Fastify, Socket.IO, SQLite, JWT, OAuth2, bcrypt, RESTful APIs  
@@ -79,7 +79,7 @@
 
 ---
 
-## 📊 Skills Summary
+## Skills Summary
 
 ### Languages Mastered
 **C** - Low-level programming, memory management, system calls  
@@ -100,40 +100,6 @@
 **Networking** - TCP/IP, sockets, protocols, routing  
 **Graphics** - 2D/3D rendering, raycasting, texture mapping  
 **Security** - Encryption, hashing, authentication, authorization
-
----
-
-## 🎯 Key Achievements
-
-✅ Built complete C standard library from scratch  
-✅ Implemented optimized sorting algorithms  
-✅ Created 3D game engine using raycasting  
-✅ Developed fully functional Unix shell  
-✅ Mastered multithreading and synchronization  
-✅ Implemented IRC protocol from RFC specification  
-✅ Built full-stack multiplayer game with real-time features  
-✅ Deployed containerized applications with Docker
-
----
-
-## 📈 Statistics
-
-| Category | Count | Difficulty |
-|----------|-------|------------|
-| C Projects | 9 | ⭐⭐ to ⭐⭐⭐⭐⭐ |
-| C++ Projects | 1 (10 modules) | ⭐⭐⭐⭐ |
-| System Admin | 2 | ⭐⭐⭐ to ⭐⭐⭐⭐ |
-| Graphics | 2 | ⭐⭐⭐ to ⭐⭐⭐⭐ |
-| Networking | 2 | ⭐⭐⭐ to ⭐⭐⭐⭐⭐ |
-| Web Development | 1 | ⭐⭐⭐⭐⭐ |
-
-**Total**: 15 projects | **Lines of Code**: ~300,000+ | **Duration**: ~2-3 years
-
----
-
-## 📚 Resources
-
-[42 Intranet](https://intra.42.fr) | [C Reference](https://en.cppreference.com/w/c) | [C++ Reference](https://en.cppreference.com/w/) | [MDN Web Docs](https://developer.mozilla.org) | [Socket Programming Guide](https://beej.us/guide/bgnet/) | [RFC 1459 - IRC](https://tools.ietf.org/html/rfc1459)
 
 ---
 
